@@ -1,5 +1,5 @@
 # Redux_Reddit
-Following Redux docs for the advanced async tutorial with React
+Following Redux docs for the advanced async tutorial with React : https://redux.js.org/advanced/advanced-tutorial
 
 To run clone this repo down and run the following:
 
